@@ -2,7 +2,7 @@
   "manifest_version": 2,
 
   "name": "Wholesome Checker",
-  "description": "This extension will ask you if what you are posting is wholesome.",
+  "description": "a chrome extension for facebook that reminds you to post wholesome things",
   "version": "1.0",
 
   "permissions": [
