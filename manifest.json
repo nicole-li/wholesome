@@ -6,6 +6,7 @@
   "version": "1.0",
 
   "permissions": [
+    "https://api.aylien.com/api/*",
     "activeTab",
 		"storage",
 		"http://www.facebook.com/*",
